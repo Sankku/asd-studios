@@ -1,28 +1,28 @@
 export const exploreWorlds = [
   {
-    id: 'world-1',
-    imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    id: 'project-1',
+    imgUrl: '/project-01.jpg',
+    title: 'Web Design & Development',
   },
   {
-    id: 'world-2',
-    imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    id: 'project-2',
+    imgUrl: '/project-02.jpg',
+    title: 'Backend',
   },
   {
-    id: 'world-3',
-    imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    id: 'project-3',
+    imgUrl: '/project-03.jpg',
+    title: 'E-Commerce',
   },
   {
-    id: 'world-4',
-    imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    id: 'project-4',
+    imgUrl: '/project-04.jpg',
+    title: 'Branding & Creative Services',
   },
   {
-    id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    id: 'project-5',
+    imgUrl: '/project-05.jpg',
+    title: 'VR Experience',
   },
 ];
 
@@ -47,24 +47,24 @@ export const newFeatures = [
   },
 ];
 
-export const insights = [
+export const reviews = [
   {
-    imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    imgUrl: '/customer-01.jpg',
+    title: 'Sarah Thompson',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        '"ASD Studios surpassed my expectations! Their cutting-edge approach to frontend and gaming is truly revolutionary. Working with them was delightful; they not only met deadlines but brought a fresh perspective to our project. Sarah Thompson is thrilled with the immersive experiences brought to life!"',
   },
   {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    imgUrl: '/customer-02.jpg',
+    title: 'Alex Reynolds',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        '"Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum"',
   },
   {
-    imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    imgUrl: '/customer-03.jpg',
+    title: 'Emily Turner',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        '"Choosing ASD Studios for frontend development was the best decision. Their cutting-edge techniques brought a new level of creativity to our project. The teams professionalism and dedication were evident throughout. I highly recommend ASD Studios. Emily Turner is thoroughly impressed with the quality of their work"',
   },
 ];
 
