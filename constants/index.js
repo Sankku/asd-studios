@@ -72,17 +72,21 @@ export const socials = [
   {
     name: 'twitter',
     url: '/twitter.svg',
+    ref: 'https://www.linkedin.com/in/riverobaudg/',
   },
   {
     name: 'linkedin',
     url: '/linkedin.svg',
+    ref: 'https://www.linkedin.com/in/riverobaudg/',
   },
   {
     name: 'instagram',
     url: '/instagram.svg',
+    ref: 'https://www.instagram.com/gonriverobaud/',
   },
   {
     name: 'facebook',
     url: '/facebook.svg',
+    ref: 'https://www.linkedin.com/in/riverobaudg/',
   },
 ];
