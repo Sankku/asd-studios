@@ -1,5 +1,4 @@
 import '../styles/globals.css';
-import { SpeedInsights } from '@vercel/speed-insights/next';
 
 const RootLayout = ({ children }) => (
   <html lang="en">
@@ -9,7 +8,6 @@ const RootLayout = ({ children }) => (
     </head>
     <body>
       {children}
-      <SpeedInsights />
     </body>
   </html>
 );
