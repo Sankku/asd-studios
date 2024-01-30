@@ -6,7 +6,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Eudoxus Sans", sans-serif;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica;
   scroll-behavior: smooth;
 }
 
@@ -25,12 +25,7 @@
 }
 
 .hero-gradient {
-  background: linear-gradient(
-    97.86deg,
-    #a509ff 0%,
-    #34acc7 53.65%,
-    #a134c7 100%
-  );
+  background: linear-gradient(90.86deg, #000000 0%, #606060 53.65%, #ffff 100%);
 }
 
 .gradient-02 {
